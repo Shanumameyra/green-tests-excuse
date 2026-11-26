@@ -1,0 +1,1 @@
+All tests green — I asked the code if it worked, and it said yes. Nobody asked the user.
